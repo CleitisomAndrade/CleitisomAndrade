@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CleitisomAndrade
 - 👀 I’m interested in  aprender  a programar.
 - 🌱 I’m currently learning  gihub, Python e estou cursando ADS
-- 💞️ I’m looking to collaborate on  em qualquer projeto q eu poça contribuir com meu pouco conhecimento.
+- 💞️ I’m looking to collaborate on  em qualquer projeto que eu poça contribuir com meu pouco conhecimento.
 - 📫 cleitisomandrade@gmail.com
 
 <!---
