@@ -1,8 +1,8 @@
 ### Olá! eu sou o Cleitisom de Andrade 🖐🏾
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portif-lio-murex-five.vercel.app/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitisomandrade/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitisom/)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portif-lio-murex-five.vercel.app/)
 
 ![Cleitisom de Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=CleitisomAndrade&show_icons=true&theme=tokyonight)
 
